@@ -1,4 +1,4 @@
-name: aho_corasick
+name: aho_corasick_trie
 description: Aho-Corasick string search
 version: 0.0.1
 repository: https://github.com/ecstaticmorse/aho-corasick-dart

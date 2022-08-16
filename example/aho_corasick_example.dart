@@ -1,4 +1,4 @@
-import 'package:aho_corasick/aho_corasick.dart';
+import 'package:aho_corasick_trie/aho_corasick_trie.dart';
 
 const pinyin =
     'a|ai|an|ang|ao|ba|bai|ban|bang|bao|bei|ben|beng|bi|bian|biang|biao|bie|bin|bing'

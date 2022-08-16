@@ -1,4 +1,4 @@
-import 'package:aho_corasick/aho_corasick.dart';
+import 'package:aho_corasick_trie/aho_corasick_trie.dart';
 import 'package:glados/glados.dart';
 
 void main() {
