@@ -1,7 +1,7 @@
 name: aho_corasick_trie
 description: Aho-Corasick string search
 version: 0.0.1
-repository: https://github.com/ecstaticmorse/aho-corasick-dart
+repository: https://github.com/ecstatic-morse/aho-corasick-dart
 
 environment:
   sdk: '>=2.17.6 <3.0.0'
