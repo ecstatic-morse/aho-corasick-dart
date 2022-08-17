@@ -1,5 +1,5 @@
 name: aho_corasick_trie
-description: Aho-Corasick string search
+description: Aho-Corasick string search, implemented directly on top of a (slow) trie
 version: 0.0.1
 repository: https://github.com/ecstatic-morse/aho-corasick-dart
 
